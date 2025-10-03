@@ -52,7 +52,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "Flutter",
-            path: "Frameworks/Flutter.xcframework"
+            url: "https://github.com/AdeptMobile/crowdplay_ios_sdk/releases/download/1.0.0/Frameworks/Flutter.xcframework.zip",
+            checksum: "2a96ae0dd9c25bcd884dd20376e3fdd44697370f865b8964634dbe4a3b6f4d5e"
         ),
         .binaryTarget(
             name: "FlutterPluginRegistrant",
