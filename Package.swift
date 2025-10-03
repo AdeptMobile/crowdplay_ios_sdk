@@ -53,7 +53,7 @@ let package = Package(
         .binaryTarget(
             name: "Flutter",
             url: "https://github.com/AdeptMobile/crowdplay_ios_sdk/releases/download/1.0.0/Frameworks/Flutter.xcframework.zip",
-            checksum: "2a96ae0dd9c25bcd884dd20376e3fdd44697370f865b8964634dbe4a3b6f4d5e"
+            checksum: "1cc82a8f0952fc2e122a364b405bcebe1d84eff71ae8a83778526da12c83704d"
         ),
         .binaryTarget(
             name: "FlutterPluginRegistrant",
