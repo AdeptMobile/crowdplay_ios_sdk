@@ -52,7 +52,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "Flutter",
-            url: "https://github.com/AdeptMobile/crowdplay_ios_sdk/releases/download/1.0.0/Flutter.xcframework.zip",
+            url: "https://github.com/AdeptMobile/crowdplay_ios_sdk/releases/download/1.0.4/Flutter.xcframework.zip",
             checksum: "200d07118f7d38f9c6f2cb169b08299d4c61907cf1af13ce301bda11b4afcaac"
         ),
         .binaryTarget(
